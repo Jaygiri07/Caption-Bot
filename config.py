@@ -8,4 +8,4 @@ class Config(object):
       API_HASH = os.environ.get("ba25181c01b50d945748801b6c8b6ecc")
       CAPTION_TEXT = os.environ.get("CAPTION_TEXT", "")
       CAPTION_POSITION = os.environ.get("CAPTION_POSITION", "nil")
-      ADMIN_USERNAME = os.environ.get("ADMIN_USERNAME", "AvishkarPatil")
+      ADMIN_USERNAME = os.environ.get("ADMIN_USERNAME", "IamRebelStar")
